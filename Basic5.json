@@ -1,0 +1,42 @@
+{
+	"$baseURI": "https://yal.cc/r/20/pixelfont/",
+	"$version": "1.0",
+	"in-glyphs": [
+		"ABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()-_=+[]~`{}\\|:;'\"<>,./?©",
+		"0123456789",
+		"abcdefghijklmnopqrstuvwxyz"
+	],
+	"glyph-color": "black",
+	"in-kerning": [
+		""
+	],
+	"glyph-width": 5,
+	"glyph-height": 8,
+	"glyph-ofs-x": 3,
+	"glyph-ofs-y": 4,
+	"glyph-sep-x": 3,
+	"glyph-sep-y": 4,
+	"glyph-base-x": 0,
+	"glyph-baseline": 8,
+	"glyph-spacing": 1,
+	"font-is-mono": true,
+	"font-em-square": 1024,
+	"font-line-gap": 128,
+	"font-ascend": 1024,
+	"font-descend": 0,
+	"font-px-size": 128,
+	"font-name": "Basic5",
+	"font-author": "Wesley",
+	"font-copy": "(C) Wesley Kennedy 2022",
+	"font-version": "Version 0.88",
+	"font-desc": "Cool 5x5 glyphs made 8 pixels tall.",
+	"font-license": "CC BY 4.0",
+	"font-license-url": "https://creativecommons.org/licenses/by/4.0/",
+	"font-sample-text": "WESLEY IS AWESOME 0123456789",
+	"font-preview-text": [
+		"THE QUICK BROWN FOX JUMPS OVER A LAZY DOG.",
+		"the quick brown fox jumps over a lazy dog.",
+		"0123456789",
+		"Wesley is awesome 0123456789"
+	]
+}
